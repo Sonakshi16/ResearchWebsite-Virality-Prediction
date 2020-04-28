@@ -1,2 +1,2 @@
 # ResearchWebsite-Virality-Prediction
-Crawling Facebook Research on Github and Predicting its Virality
+This project aims at predicting the virality of research works done by FacebookResearch posted on github.
